@@ -380,8 +380,8 @@ export const MEMBER_DATA: MEMBER_DATA_TYPE[] = [
   {
     nim: "057",
     name: "Alma Julio Isnansyah",
-    imageLink: "profile/057.jpg",
-    // bioLink: 'bio/057',
+    imageLink: "profile/057.JPG",
+    bioLink: "bio/057",
     // siteLink: 'site/057/index.html'
   },
   {
