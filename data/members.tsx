@@ -527,9 +527,9 @@ export const MEMBER_DATA: MEMBER_DATA_TYPE[] = [
   {
     nim: "079",
     name: "Cornelius Linux",
-    imageLink: "profile/blank.png",
-    // bioLink: 'bio/079',
-    // siteLink: 'site/079/index.html'
+    imageLink: 'profile/079.png',
+    bioLink: 'bio/079',
+    siteLink: 'site/079/index.html'
   },
   {
     nim: "080",
