@@ -1,5 +1,5 @@
 ---
-Name: Aziz Kurniawan
+title: Aziz Kurniawan
 ---
 
 ![Foto Profil](097-modified.png)
