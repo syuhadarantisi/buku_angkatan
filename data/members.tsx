@@ -646,9 +646,9 @@ export const MEMBER_DATA: MEMBER_DATA_TYPE[] = [
   {
     nim: '099',
     name: 'Akhdan Arif Prayoga',
-    imageLink: 'profile/blank.png',
-    // bioLink: 'bio/099',
-    // siteLink: 'site/099/index.html'
+    imageLink: 'profile/099.png',
+    bioLink: 'bio/099',
+    siteLink: 'site/099/index.html'
   },
   {
     nim: '100',
