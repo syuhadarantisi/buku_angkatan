@@ -632,9 +632,9 @@ export const MEMBER_DATA: MEMBER_DATA_TYPE[] = [
   {
     nim: '097',
     name: 'Aziz Kurniawan',
-    imageLink: 'profile/blank.png',
-    // bioLink: 'bio/097',
-    // siteLink: 'site/097/index.html'
+    imageLink: 'profile/097.jpeg',
+    bioLink: 'bio/097',
+    siteLink: 'site/097/index.html'
   },
   {
     nim: '098',

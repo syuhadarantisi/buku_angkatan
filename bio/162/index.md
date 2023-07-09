@@ -1,5 +1,5 @@
 ---
-title: Nashrullah Fathul Qoriib
+Name: Nashrullah Fathul Qoriib
 ---
 
 ![Foto Profil](./profile-circle.png)
