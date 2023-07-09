@@ -2,7 +2,7 @@
 title: Syuhada Rantisi
 ---
 
-![Foto Profil](092.jpg)
+![Foto Profil](mypp.png)
 
 I am a fan of Linux and other Open Source products. Rust and JavaScript are my favorite programming languages, but recently Rust has become more dominant. Even though I like it, I'm still learning about these technologies and I'm not quite adept at using them yet.
 
