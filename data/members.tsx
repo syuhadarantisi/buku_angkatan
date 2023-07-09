@@ -611,9 +611,9 @@ export const MEMBER_DATA: MEMBER_DATA_TYPE[] = [
   {
     nim: '092',
     name: 'Syuhada Rantisi',
-    imageLink: 'profile/blank.png',
-    // bioLink: 'bio/092',
-    // siteLink: 'site/092/index.html'
+    imageLink: 'profile/092.png',
+    bioLink: 'bio/092',
+    siteLink: 'https://callmedar.github.io'
   },
   {
     nim: '093',
